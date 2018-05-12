@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6591
     wikipedia: http://en.wikipedia.org/wiki/Nicholas_Rowe_(writer)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16275#Some-Account-of-the-Life-of-Mr.-William-Shakespear--1709-
 gutenberg_issued: '2005-07-12'
 gutenberg_type: Text
 identifiers:
