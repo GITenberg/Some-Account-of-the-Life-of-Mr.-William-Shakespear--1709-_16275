@@ -1,0 +1,34 @@
+_repo: Some-Account-of-the-Life-of-Mr.-William-Shakespear--1709-_16275
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Monk, Samuel Holt
+    gutenberg_agent_id: '33983'
+    url: http://www.gutenberg.org/2009/agents/33983
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rowe, Nicholas
+    alias: Rowe, N. (Nicholas)
+    birthdate: 1674
+    deathdate: 1718
+    gutenberg_agent_id: '6591'
+    url: http://www.gutenberg.org/2009/agents/6591
+    wikipedia: http://en.wikipedia.org/wiki/Nicholas_Rowe_(writer)
+description: ''
+gutenberg_issued: '2005-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16275'
+  lccn: '50000667'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shakespeare, William, 1564-1616 -- Biography'
+- !lcc 'PR'
+title: Some Account of the Life of Mr. William Shakespear (1709)
+url: http://www.gutenberg.org/ebooks/16275
